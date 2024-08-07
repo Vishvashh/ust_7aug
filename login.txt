@@ -1,2 +1,0 @@
-this is a lgoin file
-it is used for login purpose
